@@ -1,0 +1,79 @@
+.bold-footer {
+    font-weight: 700;
+}
+
+.head-footer-text {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 140%;
+    color: #353738 !important;
+}
+
+.head-footer-item {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 120%;
+    color: #353738 !important
+}
+
+.follow-css {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 140%;
+    color: #353738;
+}
+
+
+#one {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 120%;
+    color: #7E92B3;
+}
+
+#two {
+    font-family: 'Font Awesome 5 Free';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #7E92B3;
+}
+
+#three {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 120%;
+    color: #6C7E99;
+}
+
+
+#made-by {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 120%;
+    color: #7E92B3;
+}
+
+#person {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 120%;
+    color: #6C7E99;
+}
+
+.heart {
+    color: red;
+}
+
+
+.hoss {
+    justify-content: space-between;
+}

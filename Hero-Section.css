@@ -1,0 +1,20 @@
+.header-indigo {
+    color: #5022E2;
+}
+
+
+.cus-download-button {
+    color: white;
+}
+
+.btn:first-child:hover {
+    color: white;
+}
+
+/* .banner {
+    margin-bottom: 20px;
+} */
+
+.banner-2 {
+    margin-bottom: 170px;
+}

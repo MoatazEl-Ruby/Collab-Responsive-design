@@ -1,0 +1,39 @@
+.margin-bottom-accordion {
+    margin-bottom: 320px;
+}
+
+.text-8 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 120%;
+    color: white;
+
+}
+
+
+.bk-img-8 {
+    background: url(./img/cta-2-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    flex-wrap: wrap;
+}
+
+.margin-top-img {
+    margin-top: -260.75px;
+}
+
+.banner-8 {
+    margin-bottom: 150px;
+}
+
+.text-8-container {
+    margin-top: 56px;
+}
+
+.btn-cus-8 {
+    border-radius: 7px;
+    border-color: unset;
+    margin-top: 60px;
+}

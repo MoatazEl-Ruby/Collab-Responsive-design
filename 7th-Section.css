@@ -1,0 +1,29 @@
+.p-text-9-h {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 120%;
+}
+
+.p-text-9-sub {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 140%;
+}
+
+.pass-size {
+    height: 55px;
+    width: 392px;
+    border-radius: 4px;
+
+}
+
+
+.no-border {
+    border-radius: unset;
+}
+
+.border-bottom {
+    border-bottom: 1px solid black;
+}

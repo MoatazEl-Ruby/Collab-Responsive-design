@@ -1,0 +1,39 @@
+.cus-text {
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 120%;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+
+.accordion-button:not(.collapsed) {
+    color: unset;
+    background-color: unset;
+    box-shadow: unset;
+}
+
+
+.accordion-button:focus {
+    box-shadow: none;
+    border-color: rgba(0, 0, 0, .125);
+}
+
+
+.question {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 120%;
+}
+
+.question-content {
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 140%;
+    color: #5E6163;
+}
